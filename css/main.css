@@ -1,0 +1,46 @@
+.navbar {
+  box-shadow: 2px 2px 5px rgb(230, 99, 99);
+  opacity: 0.9;
+}
+
+.navbar .nav-item .nav-link {
+  color: #fff;
+}
+
+.main-header {
+  position: relative;
+  background: url(../img/background.jpg);
+  background-size: cover;
+}
+
+.background-overlay {
+  background: rgba(84, 108, 109, 0.7);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.form-control, .btn{
+  border-radius: 0;
+}
+
+.team, footer {
+  background:#00828E
+}
+
+.bg-cm1{
+  background-color: #00828E;
+}
+
+li {
+  list-style-type: square;
+  text-align: center;
+  margin: auto;
+}
+
+a {
+  margin-left: 5px;
+  font-size: 1em;
+  color:white;
+}
